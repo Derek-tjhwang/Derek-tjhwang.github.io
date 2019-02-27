@@ -1,6 +1,6 @@
 ---
 title: "A.3 Initialze의 작성 및 사용 예시"
-date: 2019-02-25 14:25:25 -0400
+date: 2019-02-25 11:30:00 -0400
 categories: catslab trade
 ---
 

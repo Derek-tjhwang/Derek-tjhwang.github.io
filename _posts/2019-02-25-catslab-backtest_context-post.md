@@ -1,6 +1,6 @@
 ---
 title: "B.1 BacktestContext의 생성"
-date: 2019-02-25 17:08:34 -0400
+date: 2019-02-25 14:15:00 -0400
 categories: catslab backtest backtestcontext
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A.2 Trade 실행"
-date: 2019-02-25 02:46:21 -0400
+date: 2019-02-25 11:15:00 -0400
 categories: catslab trade
 ---
 

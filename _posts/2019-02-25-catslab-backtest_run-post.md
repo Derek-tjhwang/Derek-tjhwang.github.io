@@ -1,6 +1,6 @@
 ---
 title: "B.2 Backtest 실행"
-date: 2019-02-25 17:08:34 -0400
+date: 2019-02-25 14:30:00 -0400
 categories: catslab backtest runbacktest
 ---
 

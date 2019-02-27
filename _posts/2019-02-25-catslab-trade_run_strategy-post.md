@@ -1,6 +1,6 @@
 ---
 title: "A.4 run_strategy 함수 작성 및 예시"
-date: 2019-02-25 15:15:21 -0400
+date: 2019-02-25 11:45:00 -0400
 categories: catslab trade
 ---
 

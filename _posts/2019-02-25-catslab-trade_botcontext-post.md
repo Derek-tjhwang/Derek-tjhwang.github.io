@@ -1,6 +1,6 @@
 ---
 title: "A.1 BotContext의 생성"
-date: 2019-02-25 11:08:34 -0400
+date: 2019-02-25 11:10:00 -0400
 categories: catslab trade botcontext
 ---
 
