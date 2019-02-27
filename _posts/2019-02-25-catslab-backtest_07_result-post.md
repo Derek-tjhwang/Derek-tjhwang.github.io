@@ -79,5 +79,5 @@ __B.7.10. trade_history (dict)__
 
 거래가 일어난 시점의 datetime을 key값으로 하고, 거래가 일어난 시점의 자산 보유 현황(‘balance’)과, 수익률(’earning_rate’), 평가가격(‘estimated’), Order 객체로 생성되어 저장되어 있는 ‘order_list’에 대한 정보가 포함되어 있습니다.  
 
-![My helpful screenshot]({{"/assets/B.7. Result 객체 ex9.png" | absolute_url}}){: width="90%" height="90%"}
+![My helpful screenshot]({{"/assets/B.7. Result 객체 ex10.png" | absolute_url}}){: width="90%" height="90%"}
 
