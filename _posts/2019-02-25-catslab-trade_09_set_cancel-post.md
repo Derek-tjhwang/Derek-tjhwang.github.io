@@ -1,6 +1,6 @@
 ---
 title: "A.9 set_cancel 함수의 사용과 사용 예시"
-date: 2019-02-25 16:15:21 -0400
+date: 2019-02-25 13:00:00 -0400
 categories: catslab trade others
 ---
 

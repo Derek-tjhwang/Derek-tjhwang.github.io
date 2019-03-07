@@ -1,6 +1,6 @@
 ---
 title: "A.0 Trade 기본"
-date: 2019-02-25 10:48:59 -0400
+date: 2019-02-25 10:45:00 -0400
 categories: catslab trade
 ---
 

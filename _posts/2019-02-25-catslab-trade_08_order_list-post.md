@@ -1,6 +1,6 @@
 ---
 title: "A.8 Order_list"
-date: 2019-02-25 15:57:08 -0400
+date: 2019-02-25 12:45:00 -0400
 categories: catslab trade
 ---
 
@@ -8,13 +8,13 @@ categories: catslab trade
 
 Order 객체를 이용하여 생성된 주문은 내부 함수를 거쳐 거래소로 전송된 뒤에 BotContext의 exchanges 내부 order_list에 저장됩니다. 
 
-order_list는 가상화폐 종류를 key값으로 한 dictionary 내부에 다시 order_id를 key값으로하고 해당 order_id의 주문 정보를 포함하는 Order 객체를 value값으로 하는 dictionary로 형태로 관리됩니다. 
+order_list는 가상화폐 종류를 key값으로 한 dictionary 내부에 다시 order_id를 key값으로하고 해당 order_id의 주문 정보를 포함하는 dictionary로 형태로 관리됩니다. 
 
 주문한 수량의 전체가 체결이 되거나, 전체가 취소될 경우 order_list에서 제거가 되며, 자산의 업데이트가 진행됩니다. 부분 체결 및 부분 취소가 발생한 경우에도 자산의 업데이트가 진행되며, 미체결 수량이 존재하는 경우에는 remain_qty에 그 수량을 저장합니다. 
 
 order_list에 대한 예시는 다음과 같습니다. coinone_bot이라는 BotContext에 저장되어 있는 order_list로, ‘iota’와 ‘xrp’에 관련된 미체결 주문 정보가 저장되어 있는 것을 볼 수 있습니다. 
 
-![My helpful screenshot]({{"/assets/A.8. order_list ex.png" | absolute_url}}){: width="50%" height="50%"}
+![My helpful screenshot]({{"/assets/A.8. order_list ex.png" | absolute_url}}){: width="90%" height="90%"}
 
 
 Order 객체에 저장된 주문 정보들은 다음과 같습니다.

@@ -1,6 +1,6 @@
 ---
 title: "A.10. 부가적인 기능의 함수들과 사용 예시"
-date: 2019-02-25 16:15:21 -0400
+date: 2019-02-25 13:15:00 -0400
 categories: catslab trade others
 ---
 
