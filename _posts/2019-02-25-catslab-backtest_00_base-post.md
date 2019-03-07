@@ -1,7 +1,7 @@
 ---
 title: "B.0 Backtest 기본"
 date: 2019-02-25 14:00:00 -0400
-layout: post
+layout: posts
 categories: catslab backtest
 ---
 
